@@ -5,7 +5,7 @@ body {
 
 
 h1 {
-    color:color(BLACK);
+    color:color(rgb(117, 60, 60));
     font-size: 1.5em;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
